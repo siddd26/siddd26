@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Science/ Data Analytics
 - 🌱 I’m currently learning Power BI and PySpark
 - 📫 Reach me at:
--           E-Mail: prajapatisiddharth7@gmail.com
--           Instagram: @sid_notorious
+-    ➡️ E-Mail: prajapatisiddharth7@gmail.com
+-    ➡️ Instagram: @sid_notorious
 - 😄 Pronouns: He/Him
 - ⚡ Portfolio Website: https://siddharthprajapati.netlify.app/
 
