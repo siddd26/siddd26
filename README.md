@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddharth Prajapati
 - 👀 I’m interested in Data Science/ Data Analytics
 - 🌱 I’m currently learning Power BI and PySpark
-- 📫 Reach me at:
+- 📫 Reach me at: \n
         ➡️ E-Mail: prajapatisiddharth7@gmail.com
         ➡️ Instagram: @sid_notorious
 - 😄 Pronouns: He/Him
