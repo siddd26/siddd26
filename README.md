@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Prajapati
 - 👀 I’m interested in Data Science/ Data Analytics
-- 🌱 I’m currently learning Power BI and PySpark
+- 🌱 I’m currently learning Flask and Backend Operations
 - 📫 Reach me at:
     ➡️ E-Mail: prajapatisiddharth7@gmail.com
     ➡️ Instagram: @sid_notorious
